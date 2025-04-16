@@ -6,7 +6,7 @@ This project is a front-end replica of Amazon's homepage, developed using **HTML
 
 The layout closely mirrors the original Amazon interface, featuring a responsive navigation bar, product grids, and footer sections. The purpose of this project is to demonstrate my front-end design capabilities and attention to detail.
 
-You can explore the source code, contribute, or fork the project via the [GitHub repository](https://github.com/your-username/amazon-homepage-clone).  
+You can explore the source code, contribute, or fork the project via the [GitHub repository](https://github.com/Devalkarena/Amazon-Clone-Main).  
 > _Replace the above link with your actual GitHub repository URL._
 
 ---
